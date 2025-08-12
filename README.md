@@ -27,9 +27,13 @@ The analysis covers **content distribution, genres, release patterns, and rating
 ## 📌 Future Enhancements
 
 🌐 Deploy analysis as an interactive Streamlit/Plotly Dashboard
+
 🔍 Integrate real-time movie & series updates via TMDB API
+
 🧠 Add machine learning models for content popularity prediction
+
 🔒 Implement user authentication for a personalized recommendation system
+
 📊 Create Power BI/ Tableau visualizations for advanced storytelling
 
 ---
