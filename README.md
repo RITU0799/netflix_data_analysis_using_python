@@ -36,7 +36,6 @@ The analysis covers **content distribution, genres, release patterns, and rating
 
 ## 📦 Installation & Setup
 
-1️⃣ **Clone the Repository**
 ```bash
-git clone 
+git clone https://github.com/RITU0799/netflix_data_analysis_using_python.git
 cd netflix-data-analysis
