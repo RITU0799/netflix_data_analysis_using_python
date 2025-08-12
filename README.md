@@ -24,7 +24,7 @@ The analysis covers **content distribution, genres, release patterns, and rating
 
 ---
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 🌐 Deploy analysis as an interactive Streamlit/Plotly Dashboard
 🔍 Integrate real-time movie & series updates via TMDB API
