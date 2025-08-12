@@ -20,7 +20,7 @@ Tools & Libraries:
 3. Jupyter Notebook (for code and analysis)
    
 How to Use:
-1. Clone the Repository: git clone https://github.com/RITU0799/Netflix_Data_Analysis_Using_Python.git
+1. Clone the Repository: git clone https://github.com/RITU0799/netflix_data_analysis_using_python.git
 2. Install the Required Libraries: pip install -r requirements.txt
 3. Run the Jupyter Notebook to follow along with the Analysis.
 
